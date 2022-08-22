@@ -1,0 +1,1 @@
+# aws-partner-sales-certification
