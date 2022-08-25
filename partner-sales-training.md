@@ -206,3 +206,73 @@
   - Business-critical applications
     - Enterprise resource planning (ERP)
     - Content management systems (CMS)
+
+## AWS Services
+
+- Greatest breadth and depth
+- Growing functionalities within
+- Service offerings main reason customers are coming to the cloud
+- Over 200 fully-featured services
+- Decoupled IT landscape
+  - Flexibility
+  - Elasticity
+  - Agility
+  - Cost optimization
+- EC2 - Compute
+- Storage
+- Database
+- Security
+  - Automate tasks
+  - Data protection
+  - IAM
+- Managemenet
+- Networking
+  - Content delivery
+  - Secure global network
+  - Edge networking
+
+## AWS Solutions Library
+
+- Vetted, technical reference implementations
+- Advertising and marketing
+- Retail
+- Consumer goods
+- Media and entertainment
+- Analytics
+- Blockchain
+- Compute and networking
+- Database
+- Detailed architecture
+- Deployment guide
+- Fully-integrate partner
+
+## AWS Marketplace
+
+- Curated digital catalog of third-party software and professional services
+- Provides customers faster procurement
+
+- Data lakes
+  - AWS
+  - Partners
+  - Media Processing
+  - Analytics
+  - Unstructured data processing
+  - Central repository regargless of source and format
+  - Eliminate silos
+
+## Cloud migration
+
+- Rehosting / lift and shift
+  - More conservative transition
+- Re-factor / architect
+  - More transformative
+
+---
+
+## Facilitating Digital Tranasformation
+
+- Monolithic applications to microservices
+  - Complex things at scale
+  - Large trend in modernization
+  - Minimal - interact together
+  - 
