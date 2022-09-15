@@ -437,3 +437,35 @@
   - CloudChekr
   - Cloudability
 - AWS Cost Explorer
+
+---
+
+## Module 7: Migration Portfolio Assessment (MPA) Tool
+
+- Level of effort and cost associated with migration
+- Annual run rates
+  - Compute
+  - Storage
+- Business case validations
+- Migration plans
+- Consultants
+- Sales teams
+- On-premises to cloud or cloud to cloud migrations
+- Key Features
+  - Guided data ingestion
+    - CSV
+    - 
+  - EC2 and EBS recommendations
+  - On-premises cost estimation and comparison
+  - Migration project cost estimation
+  - What-if analysis and comparison
+  - On-premises data visualization
+  - Application grouping, prioritization, and migration planning
+- Access MPA from parther tier
+
+---
+
+## Module 8: Cost Savigs with MPA
+
+- Create MPA portfolio and prepare data
+  - On-premises data
